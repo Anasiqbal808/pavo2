@@ -1,0 +1,298 @@
+body{
+  margin-left: 10px;
+}
+.header{
+    
+    background: linear-gradient(rgb(180, 224, 238),white);
+}
+nav{
+    margin-left: 20px;
+}
+.navbar-nav li
+{
+    position: relative;
+    left: 500px;
+}
+.pavoB{
+    font-weight: 700;
+    font-size: x-large;
+}
+.container-fluid img
+{
+    margin-left: 52px;
+}
+.headertop{
+    padding-top: 10px;
+}
+.headertop h1{
+    font-weight: 700;
+    font-size: 55px;
+}
+.headertop .container img
+{
+    height: 700px;
+    margin-top: 120px;
+}
+.headerbottom
+{
+    background: #ffffff;
+}
+.headerbottom .container{
+    padding: 50px 100px;
+    text-align: center;
+    font-weight: 200;
+}
+.btn1
+{
+    background-color: rgb(127, 110, 240);
+    border-radius: 50px;
+    border: 1px solid rgba(0,0,0,0);
+    padding: 10px 25px;
+    color: white;
+}
+.btn1 i{
+    margin-right: 5px;
+}
+.btn1:hover
+{
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgb(127, 110, 240);
+    color: rgb(127, 110, 240);
+}
+.btn2
+{
+    background-color: rgb(233, 98, 184);
+    border-radius: 50px;
+    border: 1px solid rgba(0,0,0,0);
+    padding: 10px 25px;
+    color: white;
+}
+.btn2 i{
+    margin-right: 5px;
+}
+.btn2:hover
+{
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid rgb(233, 98, 184);
+    color: rgb(233, 98, 184);
+}
+.services{
+    text-align: center;
+    background: #ffffff;
+}
+.services .container .cardd
+{
+    background-color:#f1f9fc;
+    padding: 80px;
+    border-radius: 50px;
+    margin-bottom: 50px;
+}
+.services .container .cardd img
+{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 30px;
+}
+.headerright 
+{
+    background-color: white;
+}
+.headerright .container img
+{
+    height: 430px;
+    margin-top: 120px;
+}
+.headerright h1
+{
+    font-weight: 700;
+    font-size: 30px;
+}
+.headerarround
+{
+    background: white;
+}
+.headerarround .container img
+{
+    margin-top: 120px;
+    width: 80%;
+}
+.headerarround h1
+{
+    font-weight: 700;
+    font-size: 55px;
+}
+.headerarround .container i
+{
+    color: royalblue;
+}
+.btn3
+{
+    background-color:#594cda;
+    border-radius: 50px;
+    border: 1px solid rgba(0,0,0,0);
+    padding: 10px 25px;
+    color: white;
+}
+.btn4
+{
+    float:none;
+    background-color:white;
+    border-radius: 50px;
+    border: 1px solid rgba(0,0,0,0);
+    padding: 10px 25px;
+    color: black;
+    border-color: black;
+    margin-left: 10px;
+}
+.headersouth h1
+{
+    font-weight: 700;
+    font-size: 30px;
+}
+.headersouth .container img
+{
+    width: 110%;
+}
+.headercat{
+    padding: 100px;
+    text-align: center;
+}
+.headercat h1
+{
+    margin-top: 120px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+.headercat .container .row{
+    margin: 0 !important;
+}
+.headercat .container img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+}
+.headercat .container p
+{
+    font-weight: 400;
+    font-size: 16px;  
+}
+.headercat .container h4
+{
+    font-weight: 500;
+    font-size: 22px;  
+}
+.nn{
+    background: linear-gradient(rgba(50, 60, 70, 0.9), rgba(50, 60, 70, 0.9)), url("back.jpg") center center no-repeat;
+    padding: 100px;
+    padding-bottom: 0px;
+    height: 700px;
+}
+.newwork .container
+{
+    /* background-image: url(back.jpg); */
+}
+.newwork .container h1
+{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;  
+}
+.newwork .container p
+{
+    text-align: center;
+}
+
+.newwork{
+    padding: 50px;
+    color: white;
+}
+.barbar .container .row{
+    position: relative;
+    /* top: 200px; */
+}
+.barbar .container .row .khan{
+    background-color: white;
+    text-align: center;
+    padding: 50px 70px;
+    border-radius: 30px;
+    border: 2px solid #594cda;
+}
+.barbar .container .row .khan h1{
+    color: #ff6e8f;
+}
+.barbar .container .row .khan .price{
+    font-size: 40px;
+}
+.barbar .container .row .khan .price span{
+    font-size: 100px;
+    font-weight: 600;
+}
+.barbar .container .row .khan .fp{
+    text-align: left;
+    margin-top: 50px;
+}
+.barbar .container .row .khan .sp{
+    text-align: left;
+    margin-top: 50px;
+}
+.barbar .container .row .khan .sp i{
+    margin-right: 10px;
+    color: #594cda;
+}
+.barbar .container .row .khan button{
+    position: relative;
+    background-color:#594cda;
+    border-radius: 50px;
+    border: 1px solid rgba(0,0,0,0);
+    padding: 10px 25px;
+    color: white;
+    bottom: 0px;
+    top: 70px;
+}
+.headersky .container img
+{
+    margin-top: 470px;
+    width: 80%;
+}
+.headersky .container h1
+{
+    margin-top: 350px;
+    font-weight: 700;
+    font-size: 55px;
+}
+.footer .container h4
+{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 110px;
+}
+.footer
+{
+    background: linear-gradient(white , rgb(180, 224, 238));
+}
+body .footer p {
+    margin-top: 20px 0px 16px;
+    text-align: center;
+    margin-top: 30px;
+}
+body .footer p i {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 50%;
+    background:white;
+    border-radius: 50px;
+}
+body .footer .footerLinks {
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: 18px;
+    font-weight: 200px;
+    padding-bottom: 80px;
+}
+.footerLinks a
+{
+    color: black;
+    padding-right: 14px;
+    text-decoration: none;
+}
